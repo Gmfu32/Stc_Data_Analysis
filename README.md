@@ -1,2 +1,11 @@
 # Stc_Data_Analysis
-I had the experience of virtually working in the field of data analytics as a scientist and data analyst at STC, and explore ways to use data and storytelling to make appropriate recommendations.
+
+This virtual experience consists of 4 tasks: 
+
+The first task: study and analyze user behavior with STC TV
+
+The second task: to build a model to predict user behavior
+
+Task Three: Make recommendations using machine learning algorithms
+
+Task Four: Storytelling of data across presentations
